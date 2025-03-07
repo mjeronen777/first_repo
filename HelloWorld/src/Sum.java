@@ -4,7 +4,7 @@ public class Sum {
 	public void display() {
 		for(int i = 0; i < data.length; i++)
 		{
-			System.out.println("Sum = ");
+			System.out.println("Next value: " + data[i]);
 		}
 	}
 }
