@@ -10,6 +10,7 @@ public class Main {
 	private static void displayGreeting(){
 		System.out.println("GREETINGS!");
 		System.out.println("FIRST CHANGES!");
+		System.out.println("SECOND CHANGES!");
 	}
 	
 }
